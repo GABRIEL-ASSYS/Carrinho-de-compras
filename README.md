@@ -1,4 +1,4 @@
-#Carrinho de Compras
+# Carrinho de Compras
 
   O carrinho de compras é um projeto criado durante um curso da plataforma Alura com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando React.js, sendo uma página WEB de compras de uma feira, o foco deste projeto é o uso dos contextos, utilizando ContextAPI, o hook useContext e criando um hook personalizado.
   
