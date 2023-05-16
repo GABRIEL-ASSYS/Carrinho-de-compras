@@ -22,7 +22,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * Insira https://github.com/GABRIEL-ASSYS/Carrinho-de-compras no campo URL do Repositório.
 * Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
-* Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio, caso ainda não tenha usado o Node.js executar o comando ```npm install```,  depois de instalado executar ```npm start```, e ele abrirá uma aba em seu navegador padrão.
+* Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio, caso ainda não tenha usado o Node.js executar o comando ```yarn install```,  depois de instalado executar ```yarn start```, e ele abrirá uma aba em seu navegador padrão.
 
 ## 🛠️ Construído com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
